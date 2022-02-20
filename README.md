@@ -8,7 +8,7 @@
 
 Toltec is a community-maintained repository of free software for the [reMarkable tablet](https://remarkable.com/).
 
-### Installing and Use
+### Installation and Use
 
 Please refer to [the Toltec website](https://toltec-dev.org/) for up-to-date information on how to install and use Toltec.
 
